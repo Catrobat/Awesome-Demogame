@@ -30,7 +30,3 @@ If you want to send us an improvement, then:
 * Describing all the modifications made in the description
 * Upload the .*catrobat file
 * Upload all the new sprites and songs if exist
-
-# Gamepedia #
-
-All the information abouth the game is available on our [wiki](https://github.com/Catrobat/Awesome-Demogame)
