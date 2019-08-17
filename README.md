@@ -20,7 +20,7 @@ If you want to report a bug in the project, then:
 
 * Check if an issue for the problem already exists and add a comment about the problem if you think it is necessary
 
-* If there is no issue for the problem, create a new one and tag it with the label bug so we can see and improve the game.
+* If there is no issue for the problem, create a new one and tag it with the label bug, also report the bug in the [Jira](https://jira.catrob.at/projects/DEMOGAME/issues/DEMOGAME-29?filter=allopenissues) so we can see and improve the game.
 
 ### Add / Modify Features ###
 
